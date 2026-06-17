@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ojos-de-seduccion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Ojos de seducción](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-de-seduccion/) |
+| **Get License** | [Official Music Licensing for Ojos de seducción](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-de-seduccion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ojos de seducción, brillando en la oscuridad,
+> Tú tienes el control, mi reina de la ciudad.
+> Bailando sin temor, rompiendo la gravedad,
+> Me llevas a otro mundo, pura electricidad.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
