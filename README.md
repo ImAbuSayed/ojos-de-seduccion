@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ojos-de-seduccion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ojos de seducción](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-de-seduccion/) |
+| **Get License** | [License this song: Ojos de seducción](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ojos-de-seduccion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b93e78f8b87a7e4801f8a14ddc4027e79bfa9e0cd5a4a64e134fdd124d55e45a` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

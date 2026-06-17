@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ojos de seducción
+
+This log tracks the cryptographic history and versioning for the song **Ojos de seducción** (ojos-de-seduccion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T22:50:37.707654 | `v1` | `b93e78f8b87a7e4801f8a14ddc4027e79bfa9e0cd5a4a64e134fdd124d55e45a` | `cb55ac2ac7d4f1c5ed74424694fec308a116ce4de80fd2c4f8ac58201c94685d` | `2026-06-17_ojos-de-seduccion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
